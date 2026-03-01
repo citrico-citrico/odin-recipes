@@ -4,10 +4,11 @@
  padding: 30px;
  text-align: center;
  background-color: gray;
+ font-size: 25px;
 }
 
 .recipes li{
- font-size: 35px;
+ font-size: 30px;
  margin: 20px;
  padding: 10px;
  font-family: Papyrus, Tahoma, Times New Roman;   
