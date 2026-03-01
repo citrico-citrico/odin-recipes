@@ -5,3 +5,11 @@
  text-align: center;
  background-color: gray;
 }
+
+.recipes li{
+ font-size: 35px;
+ margin: 20px;
+ padding: 10px;
+ font-family: Papyrus, Tahoma, Times New Roman;   
+ 
+}
