@@ -16,6 +16,12 @@
  padding-left: 20px;
 }
 
+.food-name{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 35px;
+}
+
 .image{
     display: block;
     margin-left: auto;
