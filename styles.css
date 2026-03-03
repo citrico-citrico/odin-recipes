@@ -36,3 +36,15 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     background-color: beige;
 }
+
+.description p{
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: peachpuff;
+}
+
+.ingredients li,
+.steps li{
+    font-size: 18px;
+    background-color: peachpuff;
+}
