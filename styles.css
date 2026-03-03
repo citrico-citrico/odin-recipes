@@ -30,7 +30,9 @@
     padding: 20px;
 }
 
-.description h2{
+.description h2,
+.ingredients h2,
+.steps h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     background-color: beige;
 }
